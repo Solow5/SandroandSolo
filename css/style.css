@@ -1,0 +1,12 @@
+@media
+(min-width:600px)
+{
+    body{
+        background-color: azure;
+        font: optional;
+}
+ .flex-container{
+     display:flex;
+ }
+
+}
